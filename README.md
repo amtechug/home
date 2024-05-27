@@ -1,2 +1,2 @@
 # home
-Website project for AMTech  Company
+Website project for AMTech  Company.
